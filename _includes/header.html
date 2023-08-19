@@ -7,7 +7,7 @@
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.logo != "blank" -%}
-              <svg height="100%" width="auto"><use href="{{- site.first_name -}}#logo"></use></svg>
+              <svg height="100%" width="auto"><use href="{{- site.logo -}}#logo"></use></svg>
             {%- else -%}
               {%- if site.title == "blank" -%}
                 {%- if site.first_name -%}
