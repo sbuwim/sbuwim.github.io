@@ -23,7 +23,6 @@
   </metadata>
   <defs
      id="defs5" />
-<symbol id="logo">
   <path
      transform="matrix(0,1,1,0,0,0)"
      id="path2782"
@@ -156,5 +155,4 @@
      d="m 653.50534,-412.10101 a 3.7768831,3.7755556 0 0 1 3.77689,-3.77556"
      id="path1034"
      style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:currentcolor;stroke-width:2.66666667;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-</symbol>
 </svg>
