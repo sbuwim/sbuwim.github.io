@@ -5,7 +5,7 @@
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
           {% if page.permalink != '/' -%}
-          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/"><div class="container" style="padding-left: 0;">
             {%- if site.logo != "blank" -%}
               <div style="height: calc(1.5rem + 16px); padding-right: 16px;">{% include {{ site.logo }} %}</div>
             {%- endif -%}
@@ -22,7 +22,7 @@
               {%- else -%}
                 {{- site.title -}}
               {%- endif -%}
-          </a>
+          </div></a>
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->
           <div class="navbar-brand social">
