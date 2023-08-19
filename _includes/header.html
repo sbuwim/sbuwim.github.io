@@ -7,8 +7,8 @@
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.logo != "blank" -%}
-              <div style="height: calc(1.5rem + 16px);">{% include {{ site.logo }} %}</div>
-            {%- else -%}
+              <div style="height: calc(1.5rem + 16px); padding-right: 16px;">{% include {{ site.logo }} %}</div>
+            {%- endif -%}
               {%- if site.title == "blank" -%}
                 {%- if site.first_name -%}
                   <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
@@ -22,7 +22,6 @@
               {%- else -%}
                 {{- site.title -}}
               {%- endif -%}
-          {%- endif -%}
           </a>
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->
