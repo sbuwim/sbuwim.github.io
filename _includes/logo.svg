@@ -9,7 +9,7 @@
    height="100%"
    width="100%"
    id="svg2"
-   viewbox="18.900916319738204 18.899769782798288 880.633362532402 544.2505503549573">
+   viewbox="18.901259155783013 18.89343826448576 880.6295410878548 544.2554905546964">
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -31,7 +31,7 @@
 		fill-opacity:1;
 		fill-rule:nonzero;
 		stroke:currentcolor;
-		stroke-width:2.66666667;
+		stroke-width:12;
 		stroke-linejoin:miter;
 		stroke-miterlimit:4;
 		stroke-dasharray:none;
@@ -42,7 +42,7 @@
 		fill-opacity:1;
 		fill-rule:nonzero;
 		stroke:currentcolor;
-		stroke-width:2.66666667;
+		stroke-width:12;
 		stroke-linejoin:miter;
 		stroke-miterlimit:4;
 		stroke-dasharray:none;
