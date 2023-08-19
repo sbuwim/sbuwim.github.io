@@ -5,7 +5,7 @@
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
           {% if page.permalink != '/' -%}
-          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/"><div class="container" style="padding-left: 0;">
+          <a class="navbar-brand title font-weight-lighter" style="padding-top: 0px;padding-bottom: 0px;" href="{{ site.baseurl }}/"><div class="container" style="padding-left: 0;">
             {%- if site.logo != "blank" -%}
               <div style="height: calc(1.5rem + 16px); padding-right: 16px;">{% include {{ site.logo }} %}</div>
             {%- endif -%}
