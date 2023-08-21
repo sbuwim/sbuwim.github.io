@@ -232,11 +232,12 @@ blockquote {
     padding-bottom: 0;
     padding-top: 0;
     font-size: 1.7rem;
-
-    a {
+  }
+  
+    .social a {
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
+        transition: all 0.35s ease-in-out 0s;
       }
 
       &:hover {
@@ -246,7 +247,6 @@ blockquote {
       }
     }
   }
-}
 
 .navbar-toggler {
   .icon-bar {
