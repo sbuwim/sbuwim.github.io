@@ -108,11 +108,8 @@
 			stroke-dasharray:none;
 			stroke-opacity:1;
 		}
-		#text1 {
+		#text1, #text2 {
 			fill: currentcolor; 
-		}
-	  	#text2 {
-			fill: var(--global-theme-color); 
 		}
 		</style>
   <path
