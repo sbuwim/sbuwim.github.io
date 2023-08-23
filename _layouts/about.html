@@ -15,19 +15,25 @@ layout: default
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
-              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-
-              {% if page.profile.image_circular %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+              {%- if page.profile.image_svg %}
+                {%- assign profile_image_path = page.profile.image -%}
+                {%- assign profile_image_class = "img-fluid" -%}
               {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
-              {% endif %}
+                {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
+                {% if page.profile.image_circular %}
+                  {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+                {% else %}
+                  {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+                {% endif %}
+              {% endif %}
+                
               {% include figure.html
               path=profile_image_path
               class=profile_image_class
               alt=page.profile.image
-              cache_bust=true -%}
+              cache_bust=true 
+              is_svg=page.profile.image_svg-%}
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
