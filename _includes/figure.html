@@ -3,6 +3,9 @@
 <figure>
 
   <picture>
+    {% if include.is_svg %}
+    {% include img_path %}
+    {% else %}
     {% if site.imagemagick.enabled %}
     {% for i in site.imagemagick.widths -%}
       <source
@@ -29,7 +32,7 @@
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
     />
   </picture>
-
+  {% endif %}
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
 
 </figure>
