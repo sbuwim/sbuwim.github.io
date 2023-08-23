@@ -3,9 +3,9 @@
 <figure>
 
   <picture>
-    {% if include.is_svg %}
+    <!--{% if include.is_svg %}-->
     {% include logo_display_notext.svg %}
-    {% else %}
+    <!--{% else %}
     {% if site.imagemagick.enabled %}
     {% for i in site.imagemagick.widths -%}
       <source
@@ -14,10 +14,10 @@
         srcset="{{ img_path | relative_url }}-{{ i }}.webp"
       />
     {% endfor -%}
-    {% endif %}
+    {% endif %}-->
 
     <!-- Fallback to the original file -->
-    <img
+    <!-- <img
       src="{% if include.cache_bust %}{{ include.path | relative_url | bust_file_cache }}{% else %}{{ include.path | relative_url }}{% endif %}"
       {% if include.class %}class="{{ include.class }}"{% endif %}
       {% if include.width %}width="{{ include.width }}"{% else %}width="auto"{% endif %}
@@ -30,7 +30,7 @@
       {% if include.title %}title="{{ include.title }}"{% endif %}
       {% if include.zoomable %}data-zoomable{% endif %}
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
-    />
+    />-->
   </picture>
   {% endif %}
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
