@@ -4,7 +4,7 @@
 
   <picture>
     {% if include.is_svg %}
-    {% include include.path %}
+    {% include logo_display_notext.svg %}
     {% else %}
     {% if site.imagemagick.enabled %}
     {% for i in site.imagemagick.widths -%}
