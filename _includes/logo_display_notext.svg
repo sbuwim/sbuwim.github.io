@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.0"
-   height="929.10901"
-   width="546.91864"
+   height="100%"
+   width="100%"
    id="svg2"
-   viewbox="18.900916319738204 18.899769782798288 880.633362532402 544.2505503549573"
+   viewbox="0 0 551 929.109"
    sodipodi:docname="logo_display_notext.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -108,8 +108,11 @@
 			stroke-dasharray:none;
 			stroke-opacity:1;
 		}
-		#text1, #text2 {
-			fill: currentcolor;
+		#text1 {
+			fill: currentcolor; 
+		}
+	  	#text2 {
+			fill: var(--global-theme-color); 
 		}
 		</style>
   <path
