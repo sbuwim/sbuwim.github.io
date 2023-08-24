@@ -7,6 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: logo_display_notext.svg
+  smaller_image: logo_display_notext_small.svg
   image_svg: true
   image_circular: false # crops the image to make it circular
   address: 
