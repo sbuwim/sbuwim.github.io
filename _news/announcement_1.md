@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Club officially registered 🎉
+Club officially registered! 🎉
