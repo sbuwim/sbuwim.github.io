@@ -116,7 +116,16 @@ blockquote {
 
 .profile {
   width: 100%;
+  margin-bottom: 1rem
 
+  #bigsvg {
+    display: none;
+  }
+
+  #smallsvg {
+    display: initial;
+  }
+    
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
@@ -140,7 +149,15 @@ blockquote {
 @media (min-width: 576px) {
   .profile {
     width: 30%;
+    
+  #bigsvg {
+    display: initial;
+  }
 
+  #smallsvg {
+    display: none;  
+  }
+    
     .address {
       p {
         display: block;
