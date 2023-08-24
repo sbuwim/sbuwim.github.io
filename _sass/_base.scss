@@ -113,14 +113,15 @@ blockquote {
 }
 
 // Profile
+@media (max-width: 575px) {
+  #bigsvg {
+    display: none;
+  }
+}
 
 .profile {
   width: 100%;
   margin-bottom: 1rem
-
-  #bigsvg {
-    display: none;
-  }
 
   #smallsvg {
     display: initial;
