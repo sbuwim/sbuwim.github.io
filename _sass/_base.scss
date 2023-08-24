@@ -119,13 +119,27 @@ blockquote {
   }
 }
 
-.profile {
-  width: 100%;
-  margin-bottom: 1rem
-
+@media (max-width: 575px) {
   #smallsvg {
     display: initial;
   }
+}
+
+@media (min-width: 576px) {
+  #bigsvg {
+    display: initial;
+  }
+}
+
+@media (min-width: 576px) {
+  #smallsvg {
+    display: none;
+  }
+}
+
+.profile {
+  width: 100%;
+  margin-bottom: 1rem
     
   .address {
     margin-bottom: 5px;
@@ -151,9 +165,7 @@ blockquote {
   .profile {
     width: 30%;
     
-  #bigsvg {
-    display: initial;
-  }
+  
 
   #smallsvg {
     display: none;  
