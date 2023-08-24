@@ -31,6 +31,7 @@ layout: default
               cache_bust=true -%}
               {% endcomment %}
               {% include {{ page.profile.image }} %}
+              {% include {{ page.profile.smaller_image }} %}
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
