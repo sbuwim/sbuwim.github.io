@@ -12,6 +12,18 @@
     </footer>
     {%- else -%}
     <footer class="sticky-bottom mt-5">
+      {%- if site.social %}
+            <div class="social">
+              <div class="contact-icons">
+                {% include social.html %}
+              </div>
+
+              <div class="contact-note">
+                {{ site.contact_note }}
+              </div>
+
+            </div>
+      {%- else %}
       <div class="container">
         &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
         {%- if site.impressum_path -%}
@@ -21,5 +33,6 @@
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
         {%- endif %}
       </div>
+        {%- endif %}
     </footer>
     {%- endif %}
