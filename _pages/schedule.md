@@ -16,7 +16,7 @@ nav_order: 2
       <th data-field="title">Title</th>
       <th data-field="host">Hosts</th>
       <th data-field="datetime" data-formatter="dateFmt">Date and time</th>
-      <th data-field="location" data-halign="right" data-align="right">Location</th>
+      <th data-field="location">Location</th>
     </tr>
   </thead>
 </table>
