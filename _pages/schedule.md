@@ -14,10 +14,24 @@ nav_order: 2
   <thead>
     <tr>
       <th data-field="title">Title</th>
-      <th data-field="host">Host</th>
-      <th data-field="datetime">Date and time</th>
+      <th data-field="host">Hosts</th>
+      <th data-field="datetime" data-formatter="dateFormatter">Date and time</th>
       <th data-field="location">Location</th>
     </tr>
   </thead>
 </table>
 
+<script>
+	function dateFormatter(value) {
+		var dateArray = value.split('/');
+		var startDate = dateArray[0];
+		var endDate = dateArray[1];
+		const fmt = new Intl.DateTimeFormat("en", {
+			weekday: 'long'
+			month: "short",
+			day: "numeric",
+			hour: "numeric",
+		});
+	return fmt.formatRange(startDate, endDate)
+	}
+</script>
