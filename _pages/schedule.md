@@ -13,7 +13,7 @@ nav_order: 2
   data-url="{{ '/assets/json/fall2023.json' | relative_url }}">
   <thead>
     <tr>
-      <th data-field="title">ID</th>
+      <th data-field="title">Title</th>
       <th data-field="host">Host</th>
       <th data-field="datetime">Date and time</th>
       <th data-field="location">Location</th>
