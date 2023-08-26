@@ -28,7 +28,7 @@ nav_order: 2
 		var endDate = new Date(dateArray[1]);
 		var fmt = new Intl.DateTimeFormat("en", {
 			weekday: 'long',
-			month: "long",
+			month: "short",
 			day: "numeric",
 			hour: "numeric",
 		});
