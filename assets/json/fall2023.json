@@ -1,8 +1,20 @@
 [
 	{
-		"title": "Test event",
-		"host": "WiM & Math Club",
+		"title": "Involvement fair",
+		"host": "WiM and Math Club",
+		"datetime": "2023-08-30T13:00:00/2023-08-30T14:30:00",
+		"location": "P-131, Math Tower"
+	},
+	{
+		"title": "Club social + card game night",
+		"host": "WiM and Math Club",
 		"datetime": "2023-08-31T19:00:00/2023-08-31T20:00:00",
+		"location": "P-131, Math Tower"
+	},	
+	{
+		"title": "General body meeting (TBD)",
+		"host": "WiM",
+		"datetime": "2023-09-05T19:00:00/2023-09-05T20:00:00",
 		"location": "P-131, Math Tower"
 	}
 ]
