@@ -24,8 +24,8 @@ nav_order: 2
 <script>
 	function dateFormatter(value) {
 		var dateArray = value.split('/');
-		var startDate = dateArray[0];
-		var endDate = dateArray[1];
+		var startDate = new Date(dateArray[0]);
+		var endDate = new Date(dateArray[1]);
 		var fmt = new Intl.DateTimeFormat("en", {
 			weekday: 'long',
 			month: "short",
