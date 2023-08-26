@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: event schedule
-description: Materials for courses you taught. Replace this text with your description.
+description: Meeting information for upcoming Women in Math events; more information located on social media.
 nav: true
 nav_order: 2
 ---
@@ -28,7 +28,7 @@ nav_order: 2
 		var endDate = new Date(dateArray[1]);
 		var fmt = new Intl.DateTimeFormat("en", {
 			weekday: 'long',
-			month: "short",
+			month: "long",
 			day: "numeric",
 			hour: "numeric",
 		});
