@@ -7,6 +7,17 @@ nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<table
+  id="table"
+  data-toggle="table"
+  data-url="{{ '/assets/json/fall2023.json' | relative_url }}">
+  <thead>
+    <tr>
+      <th data-field="title">ID</th>
+      <th data-field="host">Host</th>
+      <th data-field="datetime">Date and time</th>
+      <th data-field="location">Location</th>
+    </tr>
+  </thead>
+</table>
 
-Organize your courses by years, topics, or universities, however you like!
