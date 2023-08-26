@@ -52,6 +52,11 @@ table.table a {
   background-color: transparent;
 }
 
+.table-dark.table-bordered {
+  border: 0.8px solid !important;
+  color: rgb(69, 77, 85);
+}
+
 figure,
 img {
   max-width: 90vw;
