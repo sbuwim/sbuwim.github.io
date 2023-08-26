@@ -15,14 +15,14 @@ nav_order: 2
     <tr>
       <th data-field="title">Title</th>
       <th data-field="host">Hosts</th>
-      <th data-field="datetime" data-formatter="dateFormatter">Date and time</th>
+      <th data-field="datetime" data-formatter="dateFmt">Date and time</th>
       <th data-field="location">Location</th>
     </tr>
   </thead>
 </table>
 
 <script>
-	function dateFormatter(value) {
+	function dateFmt(value) {
 		var dateArray = value.split('/');
 		var startDate = new Date(dateArray[0]);
 		var endDate = new Date(dateArray[1]);
