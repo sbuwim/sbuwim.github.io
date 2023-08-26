@@ -26,7 +26,7 @@ nav_order: 2
 		var dateArray = value.split('/');
 		var startDate = dateArray[0];
 		var endDate = dateArray[1];
-		const fmt = new Intl.DateTimeFormat("en", {
+		var fmt = new Intl.DateTimeFormat("en", {
 			weekday: 'long',
 			month: "short",
 			day: "numeric",
