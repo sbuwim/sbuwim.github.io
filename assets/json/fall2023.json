@@ -12,9 +12,57 @@
 		"location": "P-131, Math Tower"
 	},	
 	{
-		"title": "General body meeting (TBD)",
+		"title": "General body meeting: TBD",
 		"host": "WiM",
 		"datetime": "2023-09-05T19:00:00/2023-09-05T20:00:00",
+		"location": "P-131, Math Tower"
+	},
+	{
+		"title": "General body meeting: TBD",
+		"host": "WiM",
+		"datetime": "2023-09-19T19:00:00/2023-09-19T20:00:00",
+		"location": "P-131, Math Tower"
+	},	
+	{
+		"title": "General body meeting: TBD",
+		"host": "WiM",
+		"datetime": "2023-10-03T19:00:00/2023-10-03T20:00:00",
+		"location": "P-131, Math Tower"
+	},	
+	{
+		"title": "General body meeting: TBD",
+		"host": "WiM",
+		"datetime": "2023-10-17T19:00:00/2023-10-17T20:00:00",
+		"location": "P-131, Math Tower"
+	},	
+	{
+		"title": "General body meeting: TBD",
+		"host": "WiM",
+		"datetime": "2023-10-17T19:00:00/2023-10-17T20:00:00",
+		"location": "P-131, Math Tower"
+	},	
+	{
+		"title": "General body meeting: TBD",
+		"host": "WiM",
+		"datetime": "2023-10-31T19:00:00/2023-10-31T20:00:00",
+		"location": "P-131, Math Tower"
+	},
+	{
+		"title": "General body meeting: TBD",
+		"host": "WiM",
+		"datetime": "2023-11-14T19:00:00/2023-11-14T20:00:00",
+		"location": "P-131, Math Tower"
+	},	
+	{
+		"title": "General body meeting: TBD",
+		"host": "WiM",
+		"datetime": "2023-11-28T19:00:00/2023-11-28T20:00:00",
+		"location": "P-131, Math Tower"
+	},
+	{
+		"title": "Reading day group study",
+		"host": "WiM and Math Club",
+		"datetime": "2023-12-11T12:00:00/2023-12-11T17:00:00",
 		"location": "P-131, Math Tower"
 	}
 ]
