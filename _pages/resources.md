@@ -27,9 +27,9 @@ nav_order: 4
 
 ### nation-wide
 
-- Internships: [SIAM internship list](https://www.siam.org/careers/internships), [BIG Math Network career resources](https://bigmathnetwork.org/resources-for-students/)
-- Federal opportunities: [NSA](https://www.intelligencecareers.gov/NSA/students-and-internships), [NASA](https://intern.nasa.gov/), [DoD](https://www.dodciviliancareers.com/civiliancareers/studentsrecentgrads), [DoE](https://www.energy.gov/careers/students-recent-graduates), [NIST](https://www.nist.gov/careers/student-opportunities), [NOAA](https://www.noaa.gov/education/opportunities/students), [ORISE opportunity catalog](https://www.zintellect.com/Catalog), [USAJOBS](https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/)
-- REUs: [American Mathematical Society (AMS) list](https://www.ams.org/education/emp-reu), [National Science Foundation (NSF) program list](http://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5044), [mathreuprograms.org](https://www.mathreuprograms.org/), [Pathways to Science](https://www.pathwaystoscience.org/Undergrads.aspx)
+- Internships: [SIAM internships](https://www.siam.org/careers/internships), [BIG Math Network career resources](https://bigmathnetwork.org/resources-for-students/)
+- Federal opportunities: [NSA](https://www.intelligencecareers.gov/NSA/students-and-internships), [NASA](https://intern.nasa.gov/), [DoD](https://www.dodciviliancareers.com/civiliancareers/studentsrecentgrads), [DoE](https://www.energy.gov/careers/students-recent-graduates), [NIST](https://www.nist.gov/careers/student-opportunities), [NOAA](https://www.noaa.gov/education/opportunities/students), [ORISE Opportunity Catalog](https://www.zintellect.com/Catalog), [USAJOBS](https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/)
+- REUs: [American Mathematical Society database](https://www.ams.org/education/emp-reu), [National Science Foundation (NSF) programs](http://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5044), [Pathways to Science](https://www.pathwaystoscience.org/Undergrads.aspx), [mathreuprograms.org](https://www.mathreuprograms.org/)
 - REU applications: [mathprograms.org](https://www.mathprograms.org/), [NSF ETAP](https://www.nsfetap.org/)
 
 ## other resources
@@ -37,5 +37,6 @@ nav_order: 4
 - [AMS information for undergraduates](https://www.ams.org/programs/students/undergrad-highschool)
 - [ASA resources for statistics students](https://www.amstat.org/education/statistics-students)
 - [AWM undergraduate resources](https://awm-math.org/resources/undergraduates/)
+- [Math Alliance](https://mathalliance.org/index.html)
 - [SIAM student resources](https://www.siam.org/students-education/resources)
 - [Women in Math Project's compilation of opportunities for women](https://pages.uoregon.edu/wmnmath/events.html#Programs) (possibly outdated)
