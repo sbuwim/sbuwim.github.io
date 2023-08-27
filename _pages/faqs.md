@@ -17,7 +17,7 @@ Occasionally, we may hold our general body meetings or special events outside of
 
 #### How can I find out more about meetings?
 
-Meeting details will be posted on our [Instagram](https://www.instagram.com/{{ site.instagram_id }}/) and [Discord](https://discord.com/invite/{{ site.discord_inv }}), as well as announced over the [Math Club mailing list](https://you.stonybrook.edu/mathclub/contact-us/). Information will be posted to [SB Engaged](https://stonybrook.campuslabs.com/engage/organization/awmstudentchapter)/Corq as well, but understand that everything published there must be manually approved by someone in a compliance office, so things can take some time to update.
+Meeting details will be posted on our [Instagram (@sbu.wim)](https://www.instagram.com/{{ site.instagram_id }}/) and [Discord](https://discord.com/invite/{{ site.discord_inv }}), as well as announced over the [Math Club mailing list](https://you.stonybrook.edu/mathclub/contact-us/). Information will be posted to [SB Engaged](https://stonybrook.campuslabs.com/engage/organization/awmstudentchapter)/Corq as well, but understand that everything published there must be manually approved by someone in a compliance office, so things can take some time to update.
 
 #### Am I allowed to attend a meeting if I am not a woman, or a member?
 
