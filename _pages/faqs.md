@@ -25,6 +25,4 @@ Yes! Our meetings are always open to everyone, regardless of gender identity or 
 
 #### How do I become a member?
 
-As per our constitution, a member is defined as anyone who has attended our events at least once. Pretty simple!
-
-All clubs have their membership requirements listed in their constitution, which will be listed on their SB Engaged page.
+As per our [constitution](/assets/pdf/AWM_Constitution_Spring_2023.pdf), a member is defined as anyone who has attended our events at least once. Pretty simple!
