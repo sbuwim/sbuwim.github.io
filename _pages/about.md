@@ -29,6 +29,7 @@ Anyone is welcome to come to our events or to join our club, regardless of major
 {% details E-board and faculty advisor %}
 - **President**: Daley McMahon (c.f. [Math Club](https://you.stonybrook.edu/mathclub/about/))
 - **Vice President**: Yutong Zhang
+- **Co-vice President**: Fiona Yang
 - **Treasurer**: Jason Liu
 - **Secretary**: Astra Kolomatskaia
 - **Advisor**: Prof. Moira Chas
