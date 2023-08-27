@@ -11,7 +11,9 @@ toc:
 
 #### When and where are meetings held?
 
-We typically meet every other Tuesday from 7 – 8 PM, and our full schedule can be found [here](/schedule/). Our meetings are held in room P-131 of the Math Tower, which (for reference) is semi-attached to the physics building. After going in through the main entrance which faces the physics building, the first door immediately on the left leads into P-131. It's as easy as that.
+We typically meet every other Tuesday from 7 – 8 PM, and our full schedule can be found [here](/schedule/). 
+
+Our meetings are held in room P-131 of the Math Tower, which (for reference) is semi-attached to the physics building. After going in through the main entrance which faces the physics building, the first door immediately on the left leads into P-131. It's as easy as that.
 
 Occasionally, we may hold our general body meetings or special events outside of our normal meeting time and place, so make sure to check back at either this site or our social media!
 
