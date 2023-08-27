@@ -2,7 +2,7 @@
 layout: page
 permalink: /resources/
 title: resources
-description: Materials for courses you taught. Replace this text with your description.
+description: List of resources of interest to students of mathematics at Stony Brook.
 nav: true
 nav_order: 4
 ---
