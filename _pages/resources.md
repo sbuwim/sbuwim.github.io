@@ -14,7 +14,7 @@ nav_order: 4
 - Scholarships: [External Fellowships and Scholarships Advising office](https://www.stonybrook.edu/commcms/fellowships/awards/undergrad-awards.php)
 - Talks: [Math Department calendar](https://www.math.stonybrook.edu/calendar), [Simons Center calendar](https://scgp.stonybrook.edu/calendar/full-calendar)
 - Tutoring: [ASTC's master list of campus tutoring resources](https://www.stonybrook.edu/commcms/academic_success/students/resources/additional-resources)
-- Undergraduate research: [Stony Brook Summer Math REU](https://www.math.stonybrook.edu/summermath/), [CSTEP](https://www.stonybrook.edu/commcms/stem-smart/college/cstep/index), [VIP Programs](https://www.stonybrook.edu/vipp/), [Undergraduate Research and Creative Activities (URECA)](https://www.stonybrook.edu/commcms/ureca/index.php)
+- Undergraduate research: [Stony Brook Summer Math REU](https://www.math.stonybrook.edu/summermath/), [DCD REU](https://iacs.stonybrook.edu/dcd/index.php), [CSTEP](https://www.stonybrook.edu/commcms/stem-smart/college/cstep/index), [VIP Programs](https://www.stonybrook.edu/vipp/), [Undergraduate Research and Creative Activities (URECA)](https://www.stonybrook.edu/commcms/ureca/index.php)
 
 ### related student organizations
 
